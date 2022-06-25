@@ -1,5 +1,5 @@
 # Simple Cloud Storage
-Simple Cloud Storage adalah sebuah service yang digunakan untuk mengupload dan download file yang ada pada service,
+Simple Cloud Storage adalah sebuah service yang digunakan untuk mengupload dan download file yang ada pada service.
 
 ## Request: Upload file
 ![POST](https://badgen.net/badge/Method/POST/yellow)**/api/files**
